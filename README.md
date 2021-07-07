@@ -9,3 +9,5 @@ Supplemental list of information
 - item three
 - item four
 - item five
+- item six
+- item seven
