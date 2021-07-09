@@ -10,7 +10,3 @@ This is a description of new things.
 - item two
 - item three
 - item four
-- item five
-- item six
-- item seven
-- item eight
