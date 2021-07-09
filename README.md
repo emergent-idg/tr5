@@ -6,10 +6,4 @@ Supplemental list of information.
 
 This is a description of new things.
 
-- item one
-- item two
-- item three
-- item four
-- item five
-- item six
-- item seven
+
