@@ -12,3 +12,4 @@ This is a description of new things.
 - item four
 - item five
 - item six
+- item seven
